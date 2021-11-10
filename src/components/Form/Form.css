@@ -1,0 +1,9 @@
+.custom {
+    background-color: #5594EF !important;
+    color: #fff !important;
+    border-radius: 999px !important;
+}
+.link_container {
+    display: flex;
+    justify-content: end;
+}

@@ -1,0 +1,26 @@
+.title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 39px;
+    color: #5594EF;
+    margin-bottom: 1rem;
+}
+
+.text {
+    color: #5594EF;
+    font-size: 15px;
+    line-height: 26px;
+}
+
+.text-bold {
+    color: #5594EF;
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: bold;
+    margin-left: 0.2rem;
+}
+
+.img_container img {
+    cursor: pointer;
+}
